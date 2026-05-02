@@ -1,4 +1,4 @@
-# TOP - FullStack JavaScript
+# The Odin Project
 
 ## General
 
